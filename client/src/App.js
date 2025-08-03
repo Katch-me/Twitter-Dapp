@@ -99,7 +99,7 @@ function App() {
   return (
     <div className="container">
       <header className="hero">
-        <h1>BlockTweet 🚀</h1>
+        <h1>BlockTweet </h1>
         <p className="subtitle">Post, follow, and chat — fully on-chain, censorship-free.</p>
         {!account && (
           <button className="connect-btn" onClick={connectWallet}>
