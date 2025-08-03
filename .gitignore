@@ -30,3 +30,6 @@ yarn-error.log*
 # OS & editor junk
 .DS_Store
 *.log
+
+# Proof and demo files
+proof-content/
